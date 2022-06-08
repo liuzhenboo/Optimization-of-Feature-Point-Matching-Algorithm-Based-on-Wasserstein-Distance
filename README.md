@@ -4,6 +4,8 @@ This is the code of paper "Optimization of Feature Point Matching Based on Wasse
 Before running, you need to download the Oxford dataset and GTM matching truth value.
 
 Tips: "python" folder contains the core program of this algorithm. 
+
+![image](https://github.com/liuzhenboo/Optimization-of-Feature-Point-Matching-Algorithm-Based-on-Wasserstein-Distance/blob/main/1.png)
 -----------------------------------------------------------------------------------------------------
 # GTM
 Interface to access Ground Truth Matches (GTM) to test computer vision algorithms using GT image features from popular datasets.
